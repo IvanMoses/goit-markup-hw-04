@@ -395,10 +395,6 @@ img {
     border-color: var(--pressed-state-color);
     color: var(--pressed-state-color);
 }
-.customers-div {
-    width: 168px;
-    height: 88px;
-}
 .footer-page { 
     background-color: var(--primary-color);
     border-bottom: 1px solid #E7E9FC;
